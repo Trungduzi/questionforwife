@@ -1,0 +1,48 @@
+.header{
+    display: none;
+
+}
+
+.csslogin{
+    background-color: rgb(220, 38, 138);
+    width: 200px;
+    height:  50px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.content{
+    position: absolute;
+    width: 275px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-48%, -50%);
+}
+
+#display1{
+    border-width: 3px;
+    border-style: outset;
+    border-color: buttonborder;
+    border-image: initial;
+}
+
+.loginds,
+.enter{
+    text-align: center;
+    margin: 45px;
+}
+
+#forget{
+    position: relative;
+    left: 58%;
+    background-color: red;
+    border-radius: 12px;
+}
+
+#logindss{
+    background-color: red;
+    border-radius: 12px;
+}
+input{
+    width:96%;
+}
